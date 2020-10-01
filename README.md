@@ -25,9 +25,9 @@ I don't really know what else to type here so I guess ask things if you want?
 #
 ### Social Stuff:  
 Here's how to reach me 🤠<br>
-<a href="https://instagram.com/kaleleafygreen"><img align="left" alt="Kale/AlbusNoir | Instagram" width="24px" src="https://github.com/AlbusNoir/AlbusNoir/blob/master/Icons/instagram.svg"/></a>
-<a href="https://twitter.com/KaleLeafyGreen"><img align="left" alt="Kale/AlbusNoir | Twitter" width="24px" src="https://github.com/AlbusNoir/AlbusNoir/blob/master/Icons/twitter.svg"/></a>
-<a href="https://kalebsego.com"><img align="left" alt="Kale/AlbusNoir | personal site" width="24px" src="https://github.com/AlbusNoir/AlbusNoir/blob/master/Icons/website.svg"/></a>
+<a href="https://instagram.com/kaleleafygreen" target="_blank"><img align="left" alt="Kale/AlbusNoir | Instagram" width="24px" src="https://github.com/AlbusNoir/AlbusNoir/blob/master/Icons/instagram.svg"/></a>
+<a href="https://twitter.com/KaleLeafyGreen" target="_blank"><img align="left" alt="Kale/AlbusNoir | Twitter" width="24px" src="https://github.com/AlbusNoir/AlbusNoir/blob/master/Icons/twitter.svg"/></a>
+<a href="https://www.kalebsego.com" target="_blank"><img align="left" alt="Kale/AlbusNoir | personal site" width="24px" src="https://github.com/AlbusNoir/AlbusNoir/blob/master/Icons/website.svg"/></a>
 <a href="mailto:kalegithub@gmail.com?subject=MESSAGE FROM GITHUB"><img align="left" alt="Kale/AlbusNoir | Email" width="24px" src="https://github.com/AlbusNoir/AlbusNoir/blob/master/Icons/email.svg"/></a>
 #
 <br>
