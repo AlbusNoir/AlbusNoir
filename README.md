@@ -8,7 +8,9 @@
 - 💼 Work in Cyber Security in the financial sector
 - 💍 Not single
 - 🐱 Cat dad
-- 😠 Always grumpy
+- 💢 Always grumpy
+- 💤 Always tired
+- 😤 Fueled by copious amounts of caffeine 
 
 ##### More:  
 
