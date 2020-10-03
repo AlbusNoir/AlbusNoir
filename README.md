@@ -21,6 +21,7 @@ I don't really know what else to type here so I guess ask things if you want?
 #
 ### Things I do:  
 - Python
+- Spend more time automating things than it would take to do the actual thing
 - Web (mostly in Django)
 - Dabble in other stuff like JS, C++, Go
 
