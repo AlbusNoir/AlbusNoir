@@ -23,7 +23,8 @@ I don't really know what else to type here so I guess ask things if you want?
 - Python
 - Spend more time automating things than it would take to do the actual thing
 - Web (mostly in Django)
-- Dabble in other stuff like JS, C++, Go
+- I've started getting into JavaScript (Vanilla for now, no frameworks yet)
+- Dabble in other languages too (so some of that may end up here)
 
 #
 ### Social Stuff:  
