@@ -14,9 +14,9 @@
 
 ##### More:  
 
-Lover of fantasy, sci-fi, MMOs, technology, etc<br>
-I enjoy food of various types, and have a very soft spot for cheese and jams<br>
-I don't really know what else to type here so I guess ask things if you want?
+- Lover of fantasy, sci-fi, MMOs, technology, etc<br>
+- I enjoy food of various types, and have a very soft spot for cheese and jams<br>
+- I don't really know what else to type here so I guess ask things if you want?
 
 #
 ### Things I do:  
