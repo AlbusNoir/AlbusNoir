@@ -5,7 +5,7 @@
 ### General About Me:  
 ##### Highlights:  
 - 🎓 4 year degree in IT. Focus in Cyber Security and Software Development
-- 💼 Work in Cyber Security in the financial sector
+- 💼 Work in CyberSec
 - 💍 Not single
 - 🐱 Cat dad
 - 💢 Always grumpy
