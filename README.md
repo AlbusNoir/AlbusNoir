@@ -4,27 +4,18 @@
 
 ### General About Me:  
 ##### Highlights:  
-- 🎓 4 year degree in IT. Focus in Cyber Security and Software Development
-- 💼 Work in CyberSec
-- 💍 Not single
+- Cyber Sec - focused on IR and threat intel
 - 🐱 Cat dad
-- 💢 Always grumpy
-- 💤 Always tired
 - 😤 Fueled by copious amounts of caffeine 
 
 ##### More:  
-
-- Lover of fantasy, sci-fi, MMOs, technology, etc<br>
 - I enjoy food of various types, and have a very soft spot for cheese and jams<br>
-- I don't really know what else to type here so I guess ask things if you want?
+- Stuff
 
 #
 ### Things I do:  
 - Python
 - Spend more time automating things than it would take to do the actual thing
-- Web (mostly in Django)
-- I've started getting into JavaScript (Vanilla for now, no frameworks yet)
-- Dabble in other languages too (so some of that may end up here)
 
 #
 ### Social Stuff:  
