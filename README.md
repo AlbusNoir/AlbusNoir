@@ -4,7 +4,7 @@
 
 ### General About Me:  
 ##### Highlights:  
-- Cyber Sec - focused on IR and threat intel
+- 💼 Cyber Sec - focused on IR and threat intel
 - 🐱 Cat dad
 - 😤 Fueled by copious amounts of caffeine 
 
