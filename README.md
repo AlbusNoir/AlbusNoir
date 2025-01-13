@@ -1,41 +1,41 @@
-#
-### Hi there, I'm Kale 🥦  
-##  
+<h1 align="left">Hi, I'm Kale</h1>
 
-### General About Me:  
-##### Highlights:  
-- 🎓 4 year degree in IT. Focus in Cyber Security and Software Development
-- 💼 Work in Cyber Security in the financial sector
-- 💍 Not single
-- 🐱 Cat dad
-- 💢 Always grumpy
-- 💤 Always tired
-- 😤 Fueled by copious amounts of caffeine 
+###
 
-##### More:  
+###
 
-- Lover of fantasy, sci-fi, MMOs, technology, etc<br>
-- I enjoy food of various types, and have a very soft spot for cheese and jams<br>
-- I don't really know what else to type here so I guess ask things if you want?
+<h2 align="left">About me</h2>
 
-#
-### Things I do:  
-- Python
-- Spend more time automating things than it would take to do the actual thing
-- Web (mostly in Django)
-- I've started getting into JavaScript (Vanilla for now, no frameworks yet)
-- Dabble in other languages too (so some of that may end up here)
+###
 
-#
-### Social Stuff:  
-Here's how to reach me 🤠<br>
-<a href="https://instagram.com/kaleleafygreen"><img align="left" alt="Kale/AlbusNoir | Instagram" width="24px" src="https://github.com/AlbusNoir/AlbusNoir/blob/master/Icons/instagram.svg"/></a>
-<a href="https://twitter.com/KaleLeafyGreen"><img align="left" alt="Kale/AlbusNoir | Twitter" width="24px" src="https://github.com/AlbusNoir/AlbusNoir/blob/master/Icons/twitter.svg"/></a>
-<a href="https://www.kalebsego.com"><img align="left" alt="Kale/AlbusNoir | personal site" width="24px" src="https://github.com/AlbusNoir/AlbusNoir/blob/master/Icons/website.svg"/></a>
-<a href="mailto:kalegithub@gmail.com?subject=MESSAGE FROM GITHUB"><img align="left" alt="Kale/AlbusNoir | Email" width="24px" src="https://github.com/AlbusNoir/AlbusNoir/blob/master/Icons/email.svg"/></a>
-#
-<br>
-<br>
-<br>
-<br>
-📜<em>Feel free to use this readme as a template for your own if you want</em>
+<p align="left">✨ Creating bugs since the dawn of time<br>📚 I'm currently learning various things and such in Python and Go<br>💼 I work in CyberSec, specifically in Threat Intel and Threat Hunting<br>🎲 I mostly spend time automating things that are probably not worth automating</p>
+
+###
+
+<h2 align="left">I primarily dabble with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+</div>
+
+<!--Icons: https://github.com/devicons/devicon/tree/v2.16.0/icons
+Use https://cdn.jsdeliver.net/gh/devicons/icons/ for putting in>-->
+###
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlbusNoir/AlbusNoir/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlbusNoir/AlbusNoir/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AlbusNoir/AlbusNoir/output/github-snake.svg" />
+</picture>
+
+<br><br><br>
+📜<em><sm>Feel free to use this readme as a template for your own if you want.<br>&nbsp;&nbsp;&nbsp;&nbsp;Was made using: https://profile-readme-generator.com/</sm></em>
