@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since the dawn of time<br>📚 I'm currently learning various things and such in Python and Go<br>💼 I work in CyberSec, specifically in Threat Intel and Threat Hunting<br>🎲 I mostly spend time automating things that are probably not worth automating</p>
+<p align="left">✨ Creating bugs since the dawn of time<br>📚 I'm currently learning how to break things in multiple languages<br>💼 Threat Intel and Threat Hunting<br>🎲 I mostly spend time automating things that are probably not worth automating</p>
 
 ###
 
@@ -20,8 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
